@@ -1,0 +1,8 @@
+# Any pair can be discarded. Example: ababbabbb => bbb
+ab=
+ba=
+
+# Reduce remaining duplets (repeatedly) to form one char. Example:
+# bbb => bb => b
+aa=a
+bb=b
